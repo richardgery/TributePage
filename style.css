@@ -1,0 +1,48 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  text-align: center;
+  line-height: 1.5;
+  margin: 0;
+  color: #333;
+  font-size: 1.6rem;
+}
+
+main {
+  background: #eee;
+  border-radius: 5px;
+  margin: 30px 8px;
+  padding: 15px;
+}
+
+#title {
+  font-size: 64px;
+  margin-bottom: 0;
+}
+
+#img-div {
+  background: #fff;
+  margin: 0;
+  padding: 10px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+#head {
+  margin: 50px 0;
+}
+
+ul {
+  text-align: left;
+  line-height: 1.5;
+}
