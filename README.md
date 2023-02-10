@@ -12,7 +12,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://ibb.co/2td6fJ2" alt="project-screenshot" width="400" height="400/">
+<a href="https://ibb.co/2td6fJ2"><img src="https://i.ibb.co/J7HdMZL/Richardgery-Generic-Laptop-2023-10-2-at-6-58-41-PM.jpg" alt="Richardgery-Generic-Laptop-2023-10-2-at-6-58-41-PM" border="0" /></a>
 
   
   
